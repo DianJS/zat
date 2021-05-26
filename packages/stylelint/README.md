@@ -40,7 +40,3 @@ For example, to change the `at-rule-no-unknown` rule to use its `ignoreAtRules` 
   }
 }
 ```
-
-## [Changelog](CHANGELOG.md)
-
-## [License](LICENSE)
