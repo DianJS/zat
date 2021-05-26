@@ -1,0 +1,13 @@
+.cache
+.temp
+.idea
+.rn_temp
+.DS_Store
+*.log
+*.swp
+pullRequest.js
+CHANGELOG.md
+package-lock.json
+node_modules
+packages/**/coverage
+packages/**/dist
