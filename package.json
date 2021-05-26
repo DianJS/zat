@@ -114,7 +114,7 @@
     "commitizen": "^4.2.4",
     "conventional-changelog-cli": "^2.1.1",
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^7.26.0",
+    "eslint": "^7.27.0",
     "husky": "^6.0.0",
     "lerna": "^4.0.0",
     "lint-staged": "^11.0.0",
@@ -128,6 +128,8 @@
   },
   "devDependencies": {
     "@octokit/core": "^3.4.0",
+    "@zatjs/eslint": "^0.1.0",
+    "@zatjs/stylelint": "^0.1.0",
     "execa": "^5.0.0",
     "fs-extra": "^10.0.0",
     "globby": "^11.0.3"
