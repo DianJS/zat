@@ -1,6 +1,6 @@
 {
   "name": "@zatjs/babel-preset",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "index.js",
   "author": "三少 <sanshao@dian.so>",
   "description": "ES6+转译到ES5工具库",
@@ -41,7 +41,6 @@
     "test:watch": "",
     "test": ""
   },
-  "peerDependencies": {},
   "dependencies": {
     "@babel/plugin-transform-runtime": "^7.14.3",
     "@babel/preset-env": "^7.14.2",
