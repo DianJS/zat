@@ -7,22 +7,22 @@
 
 ### 开发计划
 
-[x] @zatjs/eslint
+- [x] @zatjs/eslint
 
 js/ts代码规范库
 
-[x] @zatjs/stylelint
+- [x] @zatjs/stylelint
 
 css/less代码规范库
 
-[x] @zatjs/preset-env
+- [x] @zatjs/preset-env
 
 babel编译工具包
 
-[] @zatjs/config
+- [] @zatjs/config
 
 webpack构建配置
 
-[] @zatjs/zat
+- [] @zatjs/zat
 
 应用快速开发核心库
