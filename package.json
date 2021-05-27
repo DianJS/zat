@@ -2,7 +2,7 @@
   "name": "zat",
   "private": true,
   "author": "三少 <sanshao@dian.so>",
-  "description": "基于Taro实现的企业级快速开发体系化解决方案",
+  "description": "基于Taro+React实现的快速开发H5、小程序的解决方案",
   "license": "MIT",
   "keywords": [
     "Taro",
