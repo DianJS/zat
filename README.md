@@ -19,10 +19,10 @@ css/less代码规范库
 
 babel编译工具包
 
-- [] @zatjs/config
+- [ ] @zatjs/config
 
 webpack构建配置
 
-- [] @zatjs/zat
+- [ ] @zatjs/zat
 
 应用快速开发核心库
