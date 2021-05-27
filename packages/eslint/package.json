@@ -1,6 +1,6 @@
 {
   "name": "@zatjs/eslint",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "index.js",
   "author": "三少 <sanshao@dian.so>",
   "description": "基于Taro的小电JS/TS规范标准库",
